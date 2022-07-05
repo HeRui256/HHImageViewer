@@ -6,6 +6,7 @@ Chinese&中文
 将图片和此文件放在同一个文件夹，运行本文件以查看同目录下的文件图片
 如果同时存在多个图片，按↑或←以切换上一张图片，按↓或→切换下一张图片（文件顺序按文件名排序文件）
 调整图片大小时，需要调整窗口的横向宽度，调整宽度后，再点击图片一下就可以调整图片，（也可以按快捷键Shift或Ctrl或Alt或Backapace或Enter或空格）
+按Esc键退出程序
 
 >>>最佳使用方法：将此程序放在桌面，以查看桌面上的图片
 
@@ -33,6 +34,7 @@ English&英文 (machine translation&机翻)
 Place the picture in the same folder as this file and run the file to see the picture of the file in the same directory
 If there are multiple images at the same time, press ↑ or ← to toggle the previous image, press ↓ or → to switch the next image (file order sort files by file name)
 When you adjust the size of the picture, you need to adjust the horizontal width of the window, after adjusting the width, you can adjust the picture with one click on the picture, (you can also press the shortcut key Shift or Ctrl or Alt or Backapace or Enter or space)
+Press escape to exit the program
 
 >>> best practice: Place this program on your desktop to see a picture on your desktop
 
